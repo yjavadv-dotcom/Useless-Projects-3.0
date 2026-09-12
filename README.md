@@ -2,10 +2,10 @@
 
 ## Basic Details
 
-### Team Name: [Tall(est) Glasses]
+### Team Name: Tall(est) Glasses
 
 ### Team Member
-* **Team Lead:** [Yameen Javad V] - [TKM College of Engineering]
+* **Team Lead:** Yameen Javad V - TKM College of Engineering
 
 
 ## Project Description
