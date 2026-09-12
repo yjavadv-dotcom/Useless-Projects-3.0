@@ -66,7 +66,8 @@ The Distributed FAHHH Protocol (DFP)! A zero-install web network that connects e
 
 #### Diagrams
 
-![DFP System Workflow](public/workflow.png)
+<img width="700" height="527" alt="Screenshot 2026-09-12 072525" src="https://github.com/user-attachments/assets/532d8751-3bc1-4761-9114-7e7711d7b1ee" />
+
 *System architecture diagram illustrating the Socket.io WebSocket relay server, master trigger event dispatch, zone-indexed 200ms delay scheduling, and local HTML5 Web Audio execution.*
 
 ---
