@@ -41,6 +41,9 @@ The Distributed FAHHH Protocol (DFP)! A zero-install web network that connects e
 ## Implementation
 
 ### For Software:
+git clone [https://github.com/yjavadv-dotcom/Useless-Projects-3.0.git](https://github.com/yjavadv-dotcom/Useless-Projects-3.0.git)
+cd Useless-Projects-3.0
+npm install
 
 #### Installation
 
@@ -91,6 +94,4 @@ One master device at a time, for launching targeted sound
 ```bash
 
 
-git clone [https://github.com/yjavadv-dotcom/Useless-Projects-3.0.git](https://github.com/yjavadv-dotcom/Useless-Projects-3.0.git)
-cd Useless-Projects-3.0
-npm install
+
