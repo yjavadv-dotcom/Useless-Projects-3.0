@@ -2,12 +2,11 @@
 
 ## Basic Details
 
-### Team Name: [Your Team Name]
+### Team Name: [Tall(est) Glasses]
 
-### Team Members
-* **Team Lead:** [Your Name] - [Your College]
-* **Member 2:** [Name] - [College]
-* **Member 3:** [Name] - [College]
+### Team Member
+* **Team Lead:** [Yameen Javad V] - [TKM College of Engineering]
+
 
 ## Project Description
 The Distributed FAHHH Protocol (DFP) is a synchronized, multi-device spatial audio disruption system disguised behind a stealth utility interface. It transforms surrounding mobile phones into an interconnected speaker array to unleash coordinated acoustic meme waves on command.
@@ -42,7 +41,49 @@ The Distributed FAHHH Protocol (DFP)! A zero-install web network that connects e
 ### For Software:
 
 #### Installation
+
+---
+
+## Project Documentation
+
+### For Software:
+
+#### Screenshots
+
+![Master Controller Interface](public/screenshot1.png)
+*Shows the main DFP control dashboard on the master device, displaying real-time WebSocket connection status, zone selection triggers, and the master spatial wave launch button.*
+
+![Stealth Panic Mode](public/screenshot2.png)
+*Demonstrates the active Stealth Calculator disguise on satellite devices, maintaining persistent background WebSocket listeners while concealing system intent behind a functional scientific calculator UI.*
+
+![Multi-Device Node Array](public/screenshot3.png)
+*Captures multiple connected smartphone nodes running in-browser, prepared to trigger synchronized acoustic wave delays across physical room zones.*
+
+#### Diagrams
+
+![DFP System Workflow](public/workflow.png)
+*System architecture diagram illustrating the Socket.io WebSocket relay server, master trigger event dispatch, zone-indexed 200ms delay scheduling, and local HTML5 Web Audio execution.*
+
+---
+
+### For Hardware:
+*(N/A — Software-only protocol running on standard web-enabled mobile devices)*
+
+---
+
+## Project Demo
+
+### Video
+
+[Watch the DFP Hackathon Demo Video](https://your-video-link-here.com)
+*Demonstrates real-time multi-device spatial audio synchronization, instant zero-install QR code onboarding, single-zone targeting, and instant Panic Mode switching during active execution.*
+
+### Additional Demos
+
+* **Live Replit Application:** [https://8f95162d-ed8f-43a2-999c-f1cca9fa74f3-00-1j61o5iqr8yqw.sisko.replit.dev/](https://8f95162d-ed8f-43a2-999c-f1cca9fa74f3-00-1j61o5iqr8yqw.sisko.replit.dev/)
 ```bash
+
+
 git clone [https://github.com/yjavadv-dotcom/Useless-Projects-3.0.git](https://github.com/yjavadv-dotcom/Useless-Projects-3.0.git)
 cd Useless-Projects-3.0
 npm install
