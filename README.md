@@ -50,13 +50,16 @@ The Distributed FAHHH Protocol (DFP)! A zero-install web network that connects e
 
 #### Screenshots
 
-![Master Controller Interface](public/screenshot1.png)
+<img width="571" height="726" alt="Screenshot 2026-09-12 071343" src="https://github.com/user-attachments/assets/781ba34a-adc9-4e87-8270-4186e84e4689" />
+
 *Shows the main DFP control dashboard on the master device, displaying real-time WebSocket connection status, zone selection triggers, and the master spatial wave launch button.*
 
-![Stealth Panic Mode](public/screenshot2.png)
+<img width="453" height="485" alt="Screenshot 2026-09-12 071433" src="https://github.com/user-attachments/assets/5008ed0a-00c0-48d7-ac21-e2ff9ab419b7" />
+
 *Demonstrates the active Stealth Calculator disguise on satellite devices, maintaining persistent background WebSocket listeners while concealing system intent behind a functional scientific calculator UI.*
 
-![Multi-Device Node Array](public/screenshot3.png)
+<img width="636" height="210" alt="Screenshot 2026-09-12 071508" src="https://github.com/user-attachments/assets/302afc63-1cfa-4f7c-b21b-a8d69eb2e9d8" />
+
 *Captures multiple connected smartphone nodes running in-browser, prepared to trigger synchronized acoustic wave delays across physical room zones.*
 
 #### Diagrams
@@ -68,6 +71,7 @@ The Distributed FAHHH Protocol (DFP)! A zero-install web network that connects e
 
 ### For Hardware:
 *(N/A — Software-only protocol running on standard web-enabled mobile devices)*
+One master device at a time, for launching targeted sound
 
 ---
 
@@ -75,7 +79,7 @@ The Distributed FAHHH Protocol (DFP)! A zero-install web network that connects e
 
 ### Video
 
-[Watch the DFP Hackathon Demo Video](https://your-video-link-here.com)
+[[Watch the DFP Hackathon Demo Video](https://drive.google.com/drive/folders/1tKcyuEPVsRxAUdAl5Xe4f34QWkXIfsm4?usp=sharing)
 *Demonstrates real-time multi-device spatial audio synchronization, instant zero-install QR code onboarding, single-zone targeting, and instant Panic Mode switching during active execution.*
 
 ### Additional Demos
