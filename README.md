@@ -1,3 +1,5 @@
+<img width="835" height="415" alt="Screenshot 2026-09-12 072146" src="https://github.com/user-attachments/assets/670bbf75-3679-4f94-88d4-38460488ae5c" />
+
 # Distributed FAHHH Protocol (DFP) 🎯
 
 ## Basic Details
